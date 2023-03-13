@@ -4,3 +4,5 @@ Stable diffusionの構造をtorch summaryで確認する。
 # Attention couple
 Latent coupleの発展版
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laksjdjf/sd_colabs/blob/main/Attention_couple.ipynb)
+# fool similarity
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laksjdjf/sd_colabs/blob/main/fool_similarity.ipynb)
